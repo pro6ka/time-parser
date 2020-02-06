@@ -1,0 +1,4 @@
+DB_NAME="time_parser"
+DB_SERVER="172.16.238.12"
+DB_LOGIN="root"
+DB_PASS=""
